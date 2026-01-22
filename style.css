@@ -288,7 +288,7 @@ section {
     color: white;
     padding: 0.3rem 0.8rem;
     border-radius: 15px;
-    font-size: 0.9rem;
+    font-size: 0.8rem;
     font-weight: 600;
 }
 
@@ -663,4 +663,5 @@ section {
     .section-title {
         font-size: 2rem;
     }
+
 }
